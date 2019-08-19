@@ -1,5 +1,5 @@
 # Apache-Spark-Machine-Learning-Python
-These projects was created along the eleventh module of Big Data Real-Time Python and Spark  (Data Science Academy).
+These projects was created along the eleventh module of Big Data Real-Time Analytics With Python and Spark (Data Science Academy).
 
 Project 1: Using Linear Regression to predict values of MPG (miles per gallon).
 Project 2: Using Random Forest Classifier to classify if some client will pay or not the credit.
